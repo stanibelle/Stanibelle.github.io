@@ -1,13 +1,13 @@
-#🏠 The Invisible Monks 🏠 html>
+# Stanibelle.github.io<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Invisible Monks – Application</title>
-    <style>
+    <>
         body {
             font-family: Arial, sans-serif;
-            background: url('https://your-image-url.com/gorillatag.jpg') no-repeat center center fixed;
+            background: url no-repeat center center fixed;
             background-size: cover;
             color: white;
             text-align: center;
@@ -78,8 +78,8 @@
             <label>6️⃣ On a scale of 1-10, how Sigma are you?</label>
             <input type="number" name="sigma_level" min="1" max="10" required>
 
-            <label>7️⃣ Drop your best Gorilla Tag clip (optional):</label>
-            <input type="text" name="clip" placeholder="Paste link here">
+            <label>7️⃣ Drop your best Gorilla Tag clip (</labe
+            <input" name="clip" placeholder="Paste link here">
 
             <button type="submit">Submit Application</button>
         </form>
